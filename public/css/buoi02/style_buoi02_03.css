@@ -1,0 +1,18 @@
+* {
+	margin: 0px; padding: 0px;
+}
+
+body {
+	margin: auto; width: 800px;
+}
+
+.do_gachchan {
+	color: #ED0000; text-decoration:  underline;
+}
+div {
+	padding-left: 10px; padding-right: 250px; font-size: 14px;
+}
+
+table {
+	background-color: #000000; color: #FFFFFF; 
+}
